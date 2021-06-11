@@ -1,6 +1,6 @@
 # FactualAblation
 
-This is the official Repository for "Probing Factually Grounded Content Transfer with Factual Ablation"
+This is the official repository for "Probing Factually Grounded Content Transfer with Factual Ablation"
 
 Our paper proposes factual ablation, a method for measuring factual consistency, or how faithful grounded generation models are to the facts presented in grounding
 
