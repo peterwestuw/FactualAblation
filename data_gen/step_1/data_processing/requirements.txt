@@ -1,0 +1,12 @@
+python-dotenv
+azure-storage-blob==12.2.0
+spacy>=2.2.3
+nltk
+wikitextparser
+mediawiki-parser
+mwparserfromhell
+tqdm
+bs4
+pywb
+dateparser
+langid
