@@ -8,7 +8,7 @@ Here, we include instructions for generating our Factual Ablation datasets, as w
 
 ## Datasets
 
-In the `data_gen` directory, we include scripts which can be used to produce our Factual Ablation datasets. 
+In the `data_gen` directory, we include scripts which can be used to produce our Factual Ablation datasets from the raw data produced by [microsoft/WikiCommentEdit](https://github.com/microsoft/WikiCommentEdit). 
 
 For ease of use, we run these scripts ourselves and include the resulting datasets in the `data` directory. These can be loaded by calling ` FA_data_utils.get_FA_synthetic_dataset()` and `FA_data_utils.get_FA_wiki_dataset()`. 
 
